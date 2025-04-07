@@ -15,7 +15,7 @@ export default function Trabaja() {
     imageSrc: "/images/home1.png",
     buttonText: "Quiero trabajar",
     buttonPath: "/crear-cuenta",
-    buttonPath2: "/crear-cuenta-empresa",
+    buttonPath2: "/crear-cuenta-empresas",
     buttonText2: "Quiero contratar",
   };
 
