@@ -30,7 +30,7 @@ export default function Home() {
     {
       imageSrc: "/images/freelancer.png",
       title: "Quiero trabajar como",
-      role: "FREELANCER.",
+      role: "FREELANCER",
       description:
         "Trabaja en proyectos freelance de tu preferencia, de forma remota o presencial, y con la tecnología que prefieras.",
     },
