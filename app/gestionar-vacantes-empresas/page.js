@@ -252,7 +252,7 @@ export default function GestionarVacantesEmpresasPage() {
                           {candidatura.email}
                         </td>
                         <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-300">
-                          {candidatura.vacante_titulo}
+                          {candidatura.titulo}
                         </td>
                         <td className="px-6 py-4 whitespace-nowrap">
                           <span
